@@ -59,11 +59,11 @@ B.Tech ECE Student at IIIT Surat | BS in Data Science & Applications (IIT Madras
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivamxkumar&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=shivamxkumar&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamxkumar&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=shivamxkumar&theme=tokyonight" />
 </p>
 
 <p align="center">
